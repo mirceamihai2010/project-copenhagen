@@ -1,1 +1,1 @@
-# projecy-copenhagen
+# project-copenhagen
